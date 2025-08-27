@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#1c69d4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6bb7ff" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.28">
+    <circle cx="70" cy="80" r="48" fill="url(#g)"/>
+    <path d="M70 32 A48 48 0 0 1 118 80 L94 80 A24 24 0 0 0 70 56 Z" fill="#ffffff"/>
+    <path d="M70 128 A48 48 0 0 1 22 80 L46 80 A24 24 0 0 0 70 104 Z" fill="#6bb7ff"/>
+  </g>
+  <text x="160" y="78" font-family="DejaVu Sans, Arial" font-size="24" fill="#dfe9f8" opacity="0.95">Khan Abdul Kalam</text>
+  <text x="160" y="106" font-family="DejaVu Sans, Arial" font-size="16" fill="#bcd9ff" opacity="0.9">AmanKhanHQ</text>
+</svg>
